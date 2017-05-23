@@ -1,0 +1,26 @@
+abbreviation|description
+ |
+AUDU|Add, update and delete users
+AUDDT|Add, update and delete degree types
+AUDBD|Add, update and delete buildings
+AUDCL|Add, update and delete classrooms
+AUDAST|Add, update and delete application status types
+AUDTIL|Add, update and delete titles
+AUDSX|Add, update and delete suffixes
+AUDWK|Add, update and delete weekdays
+AUDTL|Add, update and delete telephone types
+AUDST|Add, update and delete states
+AUDUST|Add, update and delete user status types
+AUDWST|Add, update and delete work status types
+AUDFA|Add, update and delete financial aid types
+AUDR|Add, update and delete roles
+AUDG|Add, update and delete genders
+AUDCT|Add, update and delete certification types
+AUDAGT|Add, update and delete age group types
+AUDRSH|Add, update and delete relationship types
+AUDSCH|Add, update and delete schedules
+AUDSM|Add, update and delete semesters
+AUDOP|Add, update and delete business hours
+CUSP|Change user security privileges
+
+

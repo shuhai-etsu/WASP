@@ -1,0 +1,18 @@
+#-----------------------------------------------------------------------------------------------------------------------
+# Default uses of the WASP application.
+#
+# If data is not available for a specific field, such as first name, then supply pipes (e.g. ||) to denote the missing
+# field. If the field is a foreign key value, such as suffix_id, then supply a value of 1, which defaults to an empty
+# value.
+#-----------------------------------------------------------------------------------------------------------------------
+Bradley|Cross|crossbs@etsu.edu|1
+David|Bishop|zdb2@etsu.edu|1
+Sumnima|Bc|bcs001@etsu.edu|1
+Eric|Blumestock|blumestock@etsu.edu|1
+Dawadi|Sauharda|dawadi@etsu.edu|1
+Matthew|Desjardins|desjardinsm@etsu.edu|1
+Shuhai|Li|lis002@etsu.edu|1
+Dileepkumar|Maddala|maddala@etsu.edu|1
+Roger|Mbah|mbahrn@etsu.edu|1
+Noama|Samreen|samreen@etsu.edu|1
+Phil|Pfeiffer|phil@etsu.edu|1

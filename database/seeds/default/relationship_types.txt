@@ -1,0 +1,10 @@
+abbreviation|description
+ |
+F|Father
+M|Mother
+S|Sibling
+A|Aunt
+U|Uncle
+C|Cousin
+SP|Spouse
+O|Other

@@ -1,0 +1,95 @@
+abbreviation|description
+ |
+A.A.|Associate of Arts
+A.A.S.|Associate of Applied Science
+A.A.T.|Associate in Applied Tech.
+A.O.T.|Associate in Occupational Technology
+A.S.|Associate of Science
+B.A.|Bachelor of Arts
+B.A.B.A.|Bach of Arts of Business Administration
+B.A.Com.|Bachelor of Arts in Communication
+B.A.E.|Bachelor of Arts in Education| Bachelor of Art Education| Bachelor of Aerospace Engineering
+B.Ag|Bachelor of Agriculture
+B.Arch.|Bachelor of Architecture
+B.B.A.|Bachelor of Business Administration
+B.C.E.|Bachelor of Civil Engineering
+B.Ch.E.|Bachelor of Chemical Engineering
+B.D.|Bachelor of Divinity
+B.E.|Bachelor of Education| Bachelor of Engineering
+B.E.E.|Bachelor of Electrical Engineering
+B.F.A.|Bachelor of Fine Arts
+B.In.Dsn.|Bachelor of Industrial Design
+B.J.|Bachelor of Journalism
+B.L.A.|Bachelor of Liberal Arts
+B.M.Ed.|Bachelor of Music Education
+B. Pharm.|Bachelor of Pharmacy
+B. N.|Bachelor of Nursing
+B.S.N.|B.S. in Nursing
+B.S.|Bachelor of Science
+B.S.A.E.|B.S. in Aerospace Engineering
+B.S.B.A.|B.S. in Business Administration
+B.S.C.S.|B.S. in Computer Science
+B.S.Chem.|B.S. in Chemistry
+B.S.E.|B.S. in Engineering
+B.S.Ed.|B.S. in Education
+B.S.M.E.|B.S. in Mechanical Engineering
+B.S.Micr.|B.S. in Microbiology
+B.S.S.W.|B.S. in Social Work
+Ph.B.|Bachelor of Philosophy
+Th.B.|Bachelor of Theology
+M.A.|Master of Arts
+M.Acct.|Master of Accounting
+M.Aqua.|Master of Aquaculture
+M.B.A.|Master of Business Administration
+M.C.D.|Master of Communication Disorders
+M.C.S.|Master of Computer Science
+M.Div.|Master of Divinity
+M.E.|Master of Engineering
+M.Ed.|Master of Education
+M.Fstry.|Master of Forestry
+M.L.Arch.|Master of Landscape Architecture
+M.L.I.S.|Master of Library & Information Studies
+M.M.|Master of Music
+M.P.S.|Master of Political Science
+M.S.|Master of Science
+M.S.C.J.|M.S. in Criminal Justice
+M.S.C.S.|M.S. in Computer Science
+M.S.Chem.|M.S. in Chemistry
+M.S.F.S.|M.S. in Forensic Science
+M.S.M.Sci.|M.S. in Marine Science
+M.S.Met.|M.S. in Metallurgical Engineering
+M.N.|Master of Nursing
+M.N.A.|Master of Nurse Anesthesia
+M.Sw.E|Master of Software Engineering
+M.S.W.|Master of Social Work
+M.Th.|Master of Theology
+Au.D.|Doctor of Audiology
+Art.D.|Doctor of Arts
+D.B.A.|Doctor of Business Administration
+D.C.|Doctor of Chiropractic
+D.D.|Doctor of Divinity
+D.Ed.|Doctor of Education
+D.L.S.|Doctor of Library Science
+D.M.A.|Doctor of Musical Arts
+D.P.A.|Doctor of Public Administration
+D.P.H.|Doctor of Public Health
+D.Sc.|Doctor of Science
+D.S.W.|Doctor of Social Welfare| Doctor of Social Work
+D.V.M|Doctor of Veterinary Medicine
+J.D.|Doctor of Jurisprudence. Doctor of Laws
+L.H.D.|Doctor of Humane Letters
+LL.D.|Doctor of Laws
+Mus.D.|Doctor of Music
+O.D.|Doctor of Optimetry
+Ph.D.|Doctor of Philosophy
+S.Sc.D.|Doctor of Social Science
+Th.D.|Doctor of Theology
+D.D.S.|Doctor of Dental Surgery
+D.M.D.|Doctor of Dental Medicine| Doctor of Medical Dentistry
+D.O.|Doctor of Osteopathic Medicine
+D.P.T.|Doctor of Physical Therapy
+D.S.N.|Doctor of Science in Nursing
+D.Sc.PT|Doctor of Science in Physical Therapy
+M.D.|Doctor of Medicine
+Pharm.D.|Doctor of Pharmacy
+OTH|Other

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost:8000/" />
+<title>application</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">application</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/login</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=email</td>
+	<td>lis002@mail.etsu.edu</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name</td>
+	<td>test</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/application/create</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=enumber</td>
+	<td>E98132809</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=first_name</td>
+	<td>Shuhai</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=last_name</td>
+	<td>Li</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=age</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=age</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=address</td>
+	<td>1250 Hammett Road</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=city</td>
+	<td>Johnson City</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=state</td>
+	<td>label=Tennessee</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=zip_code</td>
+	<td>37615-2314</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=country</td>
+	<td>label=United States</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=student_email</td>
+	<td>lis002@etsu.edu</td>
+</tr>
+<tr>
+	<td>clickandWait</td>
+	<td>id=next_btn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>name=telephone_type[0]</td>
+	<td>label=Mobile</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=student_phone[0]</td>
+	<td>(919)360-0636</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=next_btn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=company[0]</td>
+	<td>ETSU</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=date_left[]</td>
+	<td>05/01/2017</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=reason[0]</td>
+	<td>found a better place</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=next_btn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>name=degree[0]</td>
+	<td>label=B.S. in Engineering</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=institution[0]</td>
+	<td>MIT</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=graduation_date[]</td>
+	<td>05/01/2017</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@id='next_btn'])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>addSelection</td>
+	<td>id=worker_type</td>
+	<td>label=Regular Student Work Study</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@id='next_btn'])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=philosophy_0_2</td>
+	<td>love them as if they are my children</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=philosophy_3_5</td>
+	<td>I educate kids wit love</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=abilities</td>
+	<td>sing, dance</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@id='next_btn'])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_fname_1</td>
+	<td>Professor</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_lname_1</td>
+	<td>A</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_phone_1</td>
+	<td>(423)123-4567</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_email_1</td>
+	<td>professora@etsu.edu</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_fname_2</td>
+	<td>Professor</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_lname_2</td>
+	<td>B</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_phone_2</td>
+	<td>(423)123-2222</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_email_2</td>
+	<td>professorb@etsu.edu</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_fname_3</td>
+	<td>professor</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_lname_3</td>
+	<td>C</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_phone_3</td>
+	<td>(423)123-5555</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=reference_email_3</td>
+	<td>professorc@etsu.edu</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//button[@type='button'])[11]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//button[@type='submit']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>name=submit</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

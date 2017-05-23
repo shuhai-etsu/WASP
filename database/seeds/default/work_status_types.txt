@@ -1,0 +1,7 @@
+abbreviation|description
+ |
+A|Absent
+D|Death of family member
+I|Illness
+L|Late
+P|Present

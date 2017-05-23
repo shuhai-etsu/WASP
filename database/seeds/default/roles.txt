@@ -1,0 +1,8 @@
+abbreviation|description
+ |
+G|Guest
+A|Administrator
+MT|Master Teacher
+SW|Student Worker
+T|Teacher
+AP|Application

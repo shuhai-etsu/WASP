@@ -1,0 +1,19 @@
+#-----------------------------------------------------------------------------------------------------------------------
+# Default user statuses
+# A -> User is active and can log into the system and perform regular operations.
+# D -> User cannot log in.
+# P -> submitted application is approved by the admin and requires completion of checklist
+# N -> If an application is awaiting approval from the admin
+# S ->If an application has been deferred to a later semester
+# I ->If an applicant needs to be interviewed.
+# R -> If an application has been rejected.
+#-----------------------------------------------------------------------------------------------------------------------
+abbreviation|description
+ |
+A|Active
+D|Dormant
+P|Pending
+N|New
+S|Shelved
+I|Interview
+R|Rejected

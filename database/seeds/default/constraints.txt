@@ -1,0 +1,4 @@
+abbreviation|description
+ |
+IO|Infants Only
+CPR|Cardiopulmonary resuscitation

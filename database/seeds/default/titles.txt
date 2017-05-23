@@ -1,0 +1,7 @@
+abbreviation|description
+ |
+Mr.|Mister
+Mrs.|Missus
+Ms.|Miss
+Dr.|Doctor
+Hon.|Honorable

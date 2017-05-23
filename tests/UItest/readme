@@ -1,0 +1,11 @@
+   Steps to run the test
+   
+1. Install Selenium IDE plugin on Firefox
+	go to this link
+	https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
+	download and install it
+2. Open Firefox, go to Tools/Selenium IDE
+3. After Selenium IDE runs, open the test case file(s)
+4. run the php artisan serve in terminal
+5. Select the test case you want to run
+6. Click the green triangle icon on the right to run individual test case

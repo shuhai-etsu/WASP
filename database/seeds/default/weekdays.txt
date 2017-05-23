@@ -1,0 +1,9 @@
+abbreviation|description
+ |
+M|Monday
+T|Tuesday
+W|Wednesday
+TR|Thursday
+F|Friday
+S|Saturday
+SUN|Sunday

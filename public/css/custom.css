@@ -1,0 +1,299 @@
+.inline-block{
+    display:inline-block;
+}
+.searchable-container{margin:20px 0 0 0}
+.searchable-container label.btn-default.active{background:rgba(0, 0, 0, 0) linear-gradient(to bottom, #003876 0%, #002147 60%) repeat scroll 0 0;;color:#fff}
+.searchable-container label.btn-default:active:hover,
+.searchable-container label.btn-default.active:focus
+{
+    background:rgba(0, 0, 0, 0) linear-gradient(to bottom, #003876 0%, #002147 60%) repeat scroll 0 0;;
+    color:#fff
+}
+.searchable-container label.btn-default{width:90%;border:1px solid #efefef;margin:5px; box-shadow:5px 8px 8px 0 #ccc;}
+.searchable-container label .bizcontent{width:100%;}
+.searchable-container .btn-group{width:90%}
+.searchable-container .btn span.glyphicon{
+    opacity: 0;
+}
+.searchable-container .btn.active span.glyphicon {
+    opacity: 1;
+}
+
+.checkbox-inline input[type="checkbox"]{margin-top:0px}
+
+.padding-top-2{
+    padding-top:2%;
+}
+
+.padding-left-16{
+    padding-left:1.6%;
+}
+
+.margin-left-2{
+    margin-left:2%;
+}
+
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 2% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.custyle{
+    padding-top:0px;
+}
+
+.inline-block{
+    display:inline-block;
+}
+
+.show {
+    display: block !important;
+}
+.hidden {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* for jqwidgets sortable */
+
+ .sortable {
+     margin: 2px;
+     padding: 5px;
+     width: 350px;
+     border: lightblue solid 1px;
+ }
+
+.sortable-container{;
+    float: left;
+    width: 390px;
+}
+
+.sortable-container span {
+    font-weight: bold;
+    font-size: large;
+}
+
+.sortable div {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: 3px solid transparent;
+}
+
+.sortable div:hover {
+    border: 3px solid #003876;
+}
+
+
+.margin-bottom-9 {
+    margin-bottom: 9%;
+}
+
+.disable {
+
+}
+/* end of jqwidgets sortable */
+.margin-top-2 {
+    margin-top: 2%;
+}
+
+.margin-left-1{
+    margin-left:1% !important;
+}
+
+
+.table-nonfluid {
+    width: auto !important;
+}
+
+.student-application-form{
+
+    margin-left: 2%;
+}
+
+#plain-main{
+    background-color:#fff;
+    margin:3%
+}
+
+.margin-right-10{
+    margin-right:10%;
+}
+
+/* tooltip */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+/* end of tooltip */
+.checkbox-inline input[type="checkbox"]{margin-top:0px}
+
+.padding-top-2{
+    padding-top:2%;
+}
+
+.margin-left-2{
+    margin-left:2%;
+}
+
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 2% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.custyle{
+    padding-top:0px;
+}
+
+.inline-block{
+    display:inline-block;
+}
+
+.show {
+    display: block !important;
+}
+.hidden {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* for jqwidgets sortable */
+
+ .sortable {
+     margin: 2px;
+     padding: 5px;
+     width: 350px;
+     border: lightblue solid 1px;
+ }
+
+.sortable-container{;
+    float: left;
+    width: 390px;
+}
+
+.sortable-container span {
+    font-weight: bold;
+    font-size: large;
+}
+
+.sortable div {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: 3px solid transparent;
+}
+
+.sortable div:hover {
+    border: 3px solid #003876;
+}
+
+
+.margin-bottom-9 {
+    margin-bottom: 9%;
+}
+
+.disable {
+
+}
+/* end of jqwidgets sortable */
+.margin-top-2 {
+    margin-top: 2%;
+}
+
+.margin-left-1{
+    margin-left:1% !important;
+}
+
+
+.table-nonfluid {
+    width: auto !important;
+}
+
+.student-application-form{
+
+    margin-left: 2%;
+}
+
+#plain-main{
+    background-color:#fff;
+    margin:3%
+}
+
+.margin-right-10{
+    margin-right:10%;
+}
+
+/* tooltip */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+/* end of tooltip */
+
+.form-frame{
+    border-style: groove;
+    padding:2%;
+    margin:2%;
+}

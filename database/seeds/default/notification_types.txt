@@ -1,0 +1,3 @@
+abbreviation|description
+ |
+NAS|New application submitted

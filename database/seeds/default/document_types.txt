@@ -1,0 +1,6 @@
+abbreviation|description
+ |
+D|Degree
+C|Certification
+T|Transcript
+O|Others

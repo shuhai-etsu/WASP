@@ -1,0 +1,29 @@
+div div ul li a{
+
+}
+ul li ul li a{
+    text-indent: 20px;
+}
+div div div ul li span{
+    margin-left: 10px;
+    text-indent: 0px;
+}
+
+#hamburger{
+    font-size: 30px;
+    position: fixed;
+    top: 20%;
+    right:-2%;
+    z-index: 100;
+    background-color: white;
+}
+
+/*a {color:#FF0000;}      !* unvisited link *!*/
+/*a:visited {color:#00FF00;}  !* visited link *!*/
+/*a:hover {color:#FF00FF;}  !* mouse over link *!*/
+/*a:active {color:#0000FF;}  !* selected link *!*/
+
+.sidebar ul li a.active {
+    background-color: lightsteelblue;
+    color:black;
+}

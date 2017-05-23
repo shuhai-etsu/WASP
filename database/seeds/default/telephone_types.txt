@@ -1,0 +1,6 @@
+abbreviation|description
+ |
+M|Mobile
+R|Residential
+W|Work
+OTH|Other

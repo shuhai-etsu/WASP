@@ -1,0 +1,5 @@
+abbreviation|description
+ |
+CCP|Child Care Professional
+CPR|Cardiopulmonary Resuscitation
+CCCW|Certified Child Care Worker

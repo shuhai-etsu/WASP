@@ -1,0 +1,7 @@
+ | |0|0
+BB|Bumblebees|1|40
+BF|Butterflies|1|35
+CH|Cheetahs|1|25
+KT|Kittens|1|45
+TD|Toads|1|35
+ZB|Zebras|1|15

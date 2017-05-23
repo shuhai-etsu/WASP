@@ -1,0 +1,9 @@
+abbreviation|description|max_hours
+ | |0
+APS|Academic Performance Scholarship|10
+APS-R|Research Discovery Academic Performance Scholarship|10
+FWS|Federal Work Study|5
+FWS-R|Research Discovery Federal Work Study|5
+RSWP|Regular Student Work Study|10
+RSWP-R|Research Discovery Regular Student Work Study|10
+GA|Graduate Assistantship|20

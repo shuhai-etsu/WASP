@@ -1,0 +1,17 @@
+<!--
+    Inserts information into help modal template's respective section(s)
+-->
+@section('help_modal_title')
+    Certifications Help
+@stop
+@section('help_modal_body')
+    <b>What is this?</b>
+    <li>Here you can view and add your certifications.</li>
+    <b>Adding a new Certification</b>
+    <li>Click the<span class="btn btn-primary disabled">New Certifications</span>
+        button to add a new certification and it's expiration date.</li>
+    <b>Some more information on table data</b>
+    <li>Click the drop down "Show 10 entries" to select the number of rows you would like to view.</li>
+    <li>If the table have more than ten rows then you can press the "Previous", "Next", or page number to navigate the respective page.</li>
+@stop
+@include('pages.modal.user_help.help_modal_template')

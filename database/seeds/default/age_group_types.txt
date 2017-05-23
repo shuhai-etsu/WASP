@@ -1,0 +1,5 @@
+abbreviation|description
+ |
+I|Infant
+T|Toddler
+PS|Preschool

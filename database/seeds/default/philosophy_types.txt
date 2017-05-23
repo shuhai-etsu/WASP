@@ -1,0 +1,5 @@
+abbreviation|description
+ |
+C02|Working with young children ages 0-2 years
+C35|Working with young children ages 3-5 years
+CYC|Work effectively with young children
